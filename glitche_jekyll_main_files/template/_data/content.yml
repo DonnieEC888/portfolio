@@ -9,7 +9,7 @@ about:
   image: "https://i.imgur.com/LK6qadC.jpg"
   text: "
         <p>
-          <strong>Hello! I’m Donald Coates.</strong><br> I am a Email Developer and Web Content Editor thats's self managed, reliable and detail oriented. Gaining knowledge, experience and improving my skills is my passion.
+          <strong>Hello! I’m Donald Coates.</strong><br> I'm an Email Developer and Web Content Editor that's self managed, reliable, resourceful and detail oriented. Gaining knowledge, experience and improving my skills is my passion.
         </p>
         "
 
@@ -27,7 +27,7 @@ skills:
         - label: "Languages: HTML/CSS, SCSS/SASS, JavaScript"
           value: "" #0-100 progress in %
 
-        - label: "Libraries/Framework: Node.Js, Foundation For Emails"
+        - label: "Libraries/Frameworks: Foundation For Emails"
           value: "" #0-100 progress in %
 
         - label: "Version Control: Git"
@@ -36,7 +36,7 @@ skills:
         - label: "Package Manager: NPM"
           value: "" #0-100 progress in %
 
-        - label: "Design: Photoshop, Sketch, Responsive Web Design"
+        - label: "Design: Photoshop, Sketch"
           value: "" #0-100 progress in %
 
         - label: "CMS: Wordpress"
@@ -48,7 +48,7 @@ skills:
         - label: "Web Analytics: Google Analytics"
           value: "" #0-100 progress in %
 
-        - label: "Operating Systems: Windows, Ubuntu Linux"
+        - label: "ESP: ConvertKit"
           value: "" #0-100 progress in %
 
 ### Contact Info [ contacts-info ]
