@@ -9,7 +9,7 @@ about:
   image: "https://i.imgur.com/LK6qadC.jpg"
   text: "
         <p>
-          <strong>Hello! I’m Donald Coates.</strong><br> I'm an Email Developer and Web Producer that's self managed, reliable, resourceful and detail oriented. Gaining knowledge, experience and improving my skills is my passion.
+          <strong>Hello! I’m Donald Coates.</strong><br> I’m an Email Developer and Web Producer that’s self-managed, reliable, resourceful, and detail-oriented. Gaining knowledge, experience, and improving my skills is my passion.
         </p>
         "
 
@@ -39,7 +39,7 @@ skills:
         - label: "Design: Photoshop, Sketch"
           value: "" #0-100 progress in %
 
-        - label: "CMS: Wordpress"
+        - label: "CMS: WordPress"
           value: "" #0-100 progress in %
 
         - label: "Testing: Litmus"
